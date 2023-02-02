@@ -1,5 +1,5 @@
 const ID = `7bfee102098a4b19ac020b017f63905c`
-const redirectUri = "http://localhost:3000/"
+const redirectUri = "https://carlosmet.github.io/spotif/"
 const scopes = [
     "user-read-currently-playing",
     "user-read-recently-played",
