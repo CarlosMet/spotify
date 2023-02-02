@@ -1,0 +1,13 @@
+.play{
+    display: none;
+}
+.track:hover .play{
+    display: block;
+}
+
+.track:hover .number{
+    display: none;
+}
+.track:hover{
+    background-color: rgba(0, 0, 1, 0.2);
+}

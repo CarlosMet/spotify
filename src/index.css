@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.songs{
+  flex:0.4
+}
+.artists{
+  flex: 0.6;
+}
+
+.body::-webkit-scrollbar{
+  display: none;  
+}

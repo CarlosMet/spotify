@@ -1,0 +1,6 @@
+.play{
+    display: none;
+}
+.fav:hover .play{    
+    display: flex;
+}
