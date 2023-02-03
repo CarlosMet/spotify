@@ -1,5 +1,5 @@
 const ID = `7bfee102098a4b19ac020b017f63905c`
-const redirectUri = "https://carlosmet.github.io/spotif/"
+const redirectUri = "https://carlosmet.github.io/spotify/"
 const scopes = [
     "user-read-currently-playing",
     "user-read-recently-played",

@@ -3,7 +3,7 @@ import {BsSpotify} from 'react-icons/bs'
 import logo from './undraw_audio_player_re_cl20.svg'
 
 const ID = `7bfee102098a4b19ac020b017f63905c`
-const redirectUri = "http://localhost:3000/"
+const redirectUri = "https://carlosmet.github.io/spotify/"
 const scopes = [
     "user-read-currently-playing",
     "user-read-recently-played",
